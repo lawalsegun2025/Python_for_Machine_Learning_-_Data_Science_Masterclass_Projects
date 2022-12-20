@@ -4,4 +4,5 @@ This repository contains all my Data Science and Machine Learning Projects from 
 The Projects includes;
 
 ### Linear Regression
+- I worked on prediction of the pricing of houses.
 ### Logistic Regression
