@@ -4,5 +4,5 @@ This repository contains all my Data Science and Machine Learning Projects from 
 The Projects includes;
 
 ### Linear Regression
-- I worked on prediction of the pricing of houses.
+This project involed working on the Amens Housing dataset, and building a Linear Regression Model for predicting the SalsePrice from the features in the dataset.
 ### Logistic Regression
