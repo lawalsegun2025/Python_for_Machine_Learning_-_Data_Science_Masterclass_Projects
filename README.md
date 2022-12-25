@@ -9,6 +9,7 @@ In this project, I worked on the following:
 - Dealing with Outliers
 - Dealing with Missing Data
 - Dealing with Categorical Data
+
 The Dataset used for this project is the <a href='http://jse.amstat.org/v19n3/decock.pdf'>Amens Housing dataset</a>.
 
 ---
