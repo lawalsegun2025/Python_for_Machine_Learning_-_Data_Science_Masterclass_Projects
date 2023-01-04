@@ -43,7 +43,7 @@ Sonar (sound navigation ranging) is a technique that uses sound propagation (usu
 
 The data set contains the response metrics for 60 separate sonar frequencies sent out against a known mine field (and known rocks). These frequencies are then labeled with the known object they were beaming the sound at (either a rock or a mine). 
 
-<img src="/03_K_Nearest_Neighbors/img/mine.jpg",  style="max-height: 500px; max-width: 500px;">
+<img src="/03_K_Nearest_Neighbors/img/mine.jpg" style="max-height: 500px; max-width: 500px;">
 
 THe goal of this project is to create a machine learning model capable of detecting the difference between a rock or a mine based on the response of the 60 separate sonar frequencies.
 
