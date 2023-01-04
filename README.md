@@ -39,7 +39,7 @@ V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano,
 
 Sonar (sound navigation ranging) is a technique that uses sound propagation (usually underwater, as in submarine navigation) to navigate, communicate with or detect objects on or under the surface of the water, such as other vessels.
 
-<img src="../img/sonar.jpg"  style="max-height: 500px; max-width: 500px;">
+<img src="img/sonar.jpg"  style="max-height: 500px; max-width: 500px;">
 
 The data set contains the response metrics for 60 separate sonar frequencies sent out against a known mine field (and known rocks). These frequencies are then labeled with the known object they were beaming the sound at (either a rock or a mine). 
 
