@@ -48,7 +48,7 @@ The data set contains the response metrics for 60 separate sonar frequencies sen
 Our main goal is to create a machine learning model capable of detecting the difference between a rock or a mine based on the response of the 60 separate sonar frequencies.
 
 
-Data Source: https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
+Data Source: <a href='https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)'>Connectionist Bench (Sonar, Mines vs. Rocks) Data Set</a>
 
 ### Complete the Tasks in bold
 
