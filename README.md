@@ -17,7 +17,7 @@ The Dataset used for this project is the <a href='http://jse.amstat.org/v19n3/de
 This project involved working on the <a href='http://jse.amstat.org/v19n3/decock.pdf'>Amens Housing dataset</a>, carrying out feature engineering on the dataset and building a Linear Regression Model for predicting the SalsePrice from the features in the dataset.
 
 ---
-## Logistic Regression
+## Logistic Regression Project
 The goal of this project is to creat a Classification Model that can predict whether or not a person has presence of heart disease based on physical features of that person (age, sex, cholesterol, etc...).
 
 The data set used for this project is the <a href='https://archive.ics.uci.edu/ml/datasets/Heart+Disease'>Heart Disease Dataset</a>
