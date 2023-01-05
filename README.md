@@ -13,7 +13,7 @@ In this project, I worked on the following:
 The Dataset used for this project is the <a href='http://jse.amstat.org/v19n3/decock.pdf'>Amens Housing dataset</a>.
 
 ---
-## Linear Regression
+## Linear Regression Project
 This project involved working on the <a href='http://jse.amstat.org/v19n3/decock.pdf'>Amens Housing dataset</a>, carrying out feature engineering on the dataset and building a Linear Regression Model for predicting the SalsePrice from the features in the dataset.
 
 ---
