@@ -60,4 +60,4 @@ Wine fraud relates to the commercial aspects of wine. The most prevalent type of
 
 Counterfeiting and the relabelling of inferior and cheaper wines to more expensive brands is another common type of wine fraud.
 
-<img src="wine.jpg">
+<img src="/img/wine.jpg">
