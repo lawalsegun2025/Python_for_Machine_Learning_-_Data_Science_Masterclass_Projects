@@ -51,4 +51,5 @@ THe goal of this project is to create a machine learning model capable of detect
 
 Data Source: <a href='https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)'>Connectionist Bench (Sonar, Mines vs. Rocks) Data Set.</a>
 
-
+---
+## K-Nearest Neighbors Project 
