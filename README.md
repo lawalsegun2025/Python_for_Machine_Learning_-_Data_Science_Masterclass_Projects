@@ -72,3 +72,6 @@ In Decision Support Systems, Elsevier, 47(4):547-553, 2009.*
 
 ---
 ## Naive Bayes Project
+
+
+Ffor more information on the dataset click: <a href='http://ai.stanford.edu/~amaas/data/sentiment/'>here</a>
