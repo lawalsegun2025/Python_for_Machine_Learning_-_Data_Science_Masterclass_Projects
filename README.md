@@ -69,3 +69,6 @@ A distribution company that was recently a victim of fraud has completed an audi
 
 Data Source: *P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.
 In Decision Support Systems, Elsevier, 47(4):547-553, 2009.*
+
+---
+## Naive Bayes Project
