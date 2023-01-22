@@ -79,3 +79,6 @@ Given a set of text movie reviews that has been labelled negative or positive;
 For more information on the dataset click: <a href='http://ai.stanford.edu/~amaas/data/sentiment/'>here.</a>
 
 Build a Naive Bayes Model that classifies each review as either positive or negative.
+
+---
+## 
