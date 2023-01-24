@@ -85,4 +85,4 @@ Build a Naive Bayes Model that classifies each review as either positive or nega
 
 There are three(3) wasys to approach tree based methods. They include;
 
--
+- Decision Tree
