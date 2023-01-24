@@ -89,6 +89,6 @@ There are three(3) wasys to approach tree based methods. They include;
 - Random Forests
 - Boosting Method
 
-### Goal
+### Goal;
 
 Create a model to predict whether or not a customer will Churn.
