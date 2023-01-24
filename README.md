@@ -87,3 +87,4 @@ There are three(3) wasys to approach tree based methods. They include;
 
 - Decision Tree
 - Random Forests
+- Boosting Method
