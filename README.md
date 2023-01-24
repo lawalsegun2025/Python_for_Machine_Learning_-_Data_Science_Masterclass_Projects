@@ -91,4 +91,4 @@ There are three(3) wasys to approach tree based methods. They include;
 
 ### Goal
 
-Create a model to predict whether or not
+Create a model to predict whether or not a customer will Churn.
