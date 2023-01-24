@@ -90,3 +90,5 @@ There are three(3) wasys to approach tree based methods. They include;
 - Boosting Method
 
 ### Goal
+
+Create a model to predict whether or not
